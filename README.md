@@ -43,7 +43,7 @@ apple-clone/
   |- tailwind.config.js
   |- vite.config.js
 ```
-
+ 
 ---
 
 ## Getting Started
